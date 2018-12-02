@@ -1,4 +1,4 @@
-Live App: pics-app.now.sh
+Live App: <https://pics-app.now.sh/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
